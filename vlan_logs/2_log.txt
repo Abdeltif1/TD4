@@ -1,0 +1,7 @@
+VLAN 2 created.
+Port 1
+Port 2
+Port 3
+Port 4
+Port 20
+Port 21

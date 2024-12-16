@@ -1,0 +1,7 @@
+VLAN 7 created.
+Port 123
+Port 140
+Port 141
+Port 142
+Port 143
+Port 158

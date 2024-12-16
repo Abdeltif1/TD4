@@ -1,0 +1,7 @@
+VLAN 4 created.
+Port 43
+Port 60
+Port 61
+Port 62
+Port 63
+Port 78

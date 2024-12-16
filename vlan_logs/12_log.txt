@@ -1,0 +1,7 @@
+VLAN 12 created.
+Port 102
+Port 103
+Port 118
+Port 120
+Port 121
+Port 122

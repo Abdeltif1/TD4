@@ -1,0 +1,7 @@
+VLAN 11 created.
+Port 80
+Port 81
+Port 82
+Port 83
+Port 100
+Port 101

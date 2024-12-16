@@ -101,7 +101,7 @@ class NetworkConfigurator:
         return code
 
 def main():
-    network = NetworkConfigurator("adjacency_matrix.txt")
+    network = NetworkConfigurator("queue.txt")
     network.create_vlans_for_switches()
     
     matrix_with_ports = network.assign_ports_to_nodes()

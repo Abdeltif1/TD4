@@ -1,0 +1,7 @@
+VLAN 3 created.
+Port 22
+Port 23
+Port 38
+Port 40
+Port 41
+Port 42
